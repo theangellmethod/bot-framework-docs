@@ -14,7 +14,7 @@ ROBOTS: NoIndex, NoFollow
 > Conversation Designer is not available to all customers yet. More details on
 > availability of Conversation Designer will come later this year.
 
-While working the in the conversation designer, all your work is cached in browser memory. To commit your changes, click the **Save** button located in the upper right corner of the designer window. To avoid loosing work, it is recommended that you save your work often. Besides clicking the **Save** button, you may also save your work by using the **CTRL+S** keyboard short-cut.
+While working the in the conversation designer, all your work is cached in browser memory. To commit your changes, click the **Save** button located in the upper left corner of the designer window. To avoid loosing work, it is recommended that you save your work often. Besides clicking the **Save** button, you may also save your work by using the **CTRL+S** keyboard short-cut.
 
 ## Trains LUIS and primes speech recognition
 
